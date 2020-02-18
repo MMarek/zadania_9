@@ -1,4 +1,3 @@
-#Następny zestaw zadań - teraz opierający się o 
-
+#Tym razem zadania zrealizowane w oparciu o biblioteke React :)
 
 ### -zad.1
