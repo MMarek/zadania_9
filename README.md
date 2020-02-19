@@ -31,3 +31,5 @@ na stronie odpowiedź na zielono, zła na czerwono.
 
 #
 ### -zad.8
+Pytanie do użytkownika o podanie koloru. Jeżeli ten nie trafi w odpowiedni, wcześniej zaprogramowany,
+Otrzyma taką informacje, gdy trafi na stronie pojawi się kwadrat we właściwym kolorze. 
