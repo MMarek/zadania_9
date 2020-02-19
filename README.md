@@ -19,3 +19,7 @@ Wypisuje na stronie wywołaną przez kod postać, której dane zostały umieszcz
 ### -zad.5
 Prosty kalkulator - pobiera od użytkownika dwie liczby, oraz operacje która ma zostać wykorzystana na tych liczbach. 
 Podaje wynik na stronie.
+
+#
+### -zad.6
+Kod zwraca ilość danych zawartych w wyeksportowanej tablicy, oraz wypisuje jej zawartosć.
