@@ -4,8 +4,10 @@ import React, {Component} from "react";
 class Task02 extends Component {
 
     render() {
+        let name = 'widzu';
+
         return (
-            <p>Test 1!</p>
+            <p>Witaj na stronie w oparciu o React, {name} :)</p>
         )
     }
 }
