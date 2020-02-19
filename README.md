@@ -23,3 +23,6 @@ Podaje wynik na stronie.
 #
 ### -zad.6
 Kod zwraca ilość danych zawartych w wyeksportowanej tablicy, oraz wypisuje jej zawartosć.
+
+#
+### -zad.7
