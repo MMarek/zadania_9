@@ -4,10 +4,13 @@ import React, {Component} from "react";
 class Task02 extends Component {
 
     render() {
-        let name = 'widzu';
+        let num1 = parseFloat(prompt('Wprowadź pierwszą liczbę'));
+        let num2 = parseFloat(prompt('Wprowadź drugą liczbę'));
 
         return (
-            <p>Witaj na stronie w oparciu o React, {name} :)</p>
+
+                <div>{num1} + {num2} = {num1 + num2}</div>
+
         )
     }
 }

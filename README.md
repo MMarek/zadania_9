@@ -2,3 +2,7 @@
 
 ### -zad.1
 Kod który renderuje na stronie treść powitania oraz imię, przypisane do do zmiennej.
+
+#
+### -zad.2
+Po załadowaniu strony, użytkownik podaje dwie liczby, które następnie są wyświetlone, oraz dodane do siebie.
