@@ -26,3 +26,8 @@ Kod zwraca ilość danych zawartych w wyeksportowanej tablicy, oraz wypisuje jej
 
 #
 ### -zad.7
+Kod generuje liczby, a z nich równanie.. Użytkownik musi podać odpowiedź - dobra koloruje 
+na stronie odpowiedź na zielono, zła na czerwono.
+
+#
+### -zad.8
