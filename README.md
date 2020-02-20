@@ -1,4 +1,4 @@
-#Tym razem zadania zrealizowane w oparciu o biblioteke React :)
+# Tym razem zadania zrealizowane w oparciu o biblioteke React :)
 
 ### -zad.1
 Kod który renderuje na stronie treść powitania oraz imię, przypisane do do zmiennej.
@@ -48,4 +48,4 @@ Iteracja całej tablicy obiektów, by stworzyć tablicę z gotowymi elementami `
 
 ##
 `zapraszam do sprawdzenia:`
-https://mmarek.github.io/zadania_9/index.html
+https://mmarek.github.io/zadania_9
