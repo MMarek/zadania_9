@@ -1,6 +1,5 @@
 import React, {Component} from "react";
 import person from "./person";
-import people from "./people";
 
 class Task10 extends Component{
 
