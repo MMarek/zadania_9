@@ -7,7 +7,6 @@ class Task09 extends Component {
         let peopleJsx = people.map(p =>
             <div key={p.pesel}>
                 {p.title} {p.name} {p.surname}
-                {/*<img src={p.avatar}/>*/}
             </div>
         );
         return ({peopleJsx})

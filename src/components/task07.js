@@ -12,7 +12,7 @@ class Task07 extends Component {
         let num1 = genNumber();
         let num2 = genNumber();
 
-        let result = parseFloat(prompt(`Podaj sumę liczby ${num1} oraz ${num2}`));
+        let result = parseFloat(prompt(`Podaj sumę liczby ${num1} oraz ${num2} do zadania 7`));
 
         let jsx;
         if (num1 + num2 === result) {

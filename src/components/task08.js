@@ -3,7 +3,7 @@ import React, {Component} from "react";
 class Task08 extends Component {
     render() {
 
-        let color = prompt('Podaj kolor');
+        let color = prompt('Podaj dowolny z wymienionych kolorów - red, green lub blue');
         let jsx;
 
         if (['red', 'green', 'blue'].indexOf(color.toLowerCase()) === -1

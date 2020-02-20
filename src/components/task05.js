@@ -4,9 +4,9 @@ import React, {Component} from "react";
 class Task05 extends Component {
 
     render() {
-        let num1 = parseFloat(prompt('Wprowadź pierwszą liczbę'));
-        let num2 = parseFloat(prompt('Wprowadź drugą liczbę'));
-        let operation = prompt('Wprowadź operację (+ , - , * , /)');
+        let num1 = parseFloat(prompt('Wprowadź pierwszą dowolną liczbę (zad.5)'));
+        let num2 = parseFloat(prompt('Wprowadź drugą dowolną liczbę (zad.5)'));
+        let operation = prompt('Wprowadź operację (+ , - , * , /) (zad.5)');
 
         let jsx;
         if (operation === '+') {
