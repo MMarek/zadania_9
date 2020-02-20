@@ -45,3 +45,7 @@ Wyświetlenie wszystkich informacji zawartych w obiekcie zaimportowanym do pliku
 #
 ### -zad.11
 Iteracja całej tablicy obiektów, by stworzyć tablicę z gotowymi elementami `JSX`, a następnie wyrenderowanie rezultatu
+
+##
+`zapraszam do sprawdzenia:`
+https://mmarek.github.io/zadania_9/index.html
